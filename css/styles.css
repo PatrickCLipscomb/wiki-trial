@@ -1,0 +1,28 @@
+.mysidebar {
+  float:left;
+}
+
+.green-header {
+  font-weight: bold;
+  border: 1px solid black;
+  background-color: #60d286;
+
+}
+
+.col-green {
+  background-color: #e6ffcc;
+
+}
+
+.blue-header {
+  font-weight: bold;
+  border: 1px solid black;
+  background-color: #6fb2dc;
+
+}
+
+.col-blue {
+  background-color: #ccebff;
+
+
+}
